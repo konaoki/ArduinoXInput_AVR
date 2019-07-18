@@ -1,11 +1,11 @@
 
-# XInput USB Mode for Arduino AVR Boards
+# NCSS USB Mode for Arduino Micro
 # ------------------------------
 #
 # For more info:
 # https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5-3rd-party-Hardware-specification
 
-name=XInput AVR Boards
+name=NCSS AVR Board
 version=1.0.0
 
 # AVR compile variables
